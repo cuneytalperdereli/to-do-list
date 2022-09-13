@@ -1,0 +1,32 @@
+section button {
+    width: 5rem;
+    height: 2.3rem;
+  }
+  section .lang-input {
+    width: 20rem;
+    height: 2.3rem;
+  }
+ ul li{
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    list-style-type: none;
+    background: #eee;
+    font-size: 18px;
+    transition: 0.2s;
+
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  .lang-input{
+    margin: 0;
+    border-radius: 0;
+    width: 75%;
+    padding: 10px;
+    float: left;
+    font-size: 16px;
+  }
+
+  
